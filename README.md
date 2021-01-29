@@ -1,5 +1,5 @@
 # madlibs_v2
-madlibs version 1 updated now with classes and objects and more functionality
+madlibs version 1 updated now with classes, objects and more functionality
 
 1. I've broken the first project that was just a big function into 3 classes and 3 objects(that reflect each of the madlibs), a few methods and one function to let you choose what madlib to play
 2. I've put the classes and obj's in one module, the choice function into another module, and on the main module we import the other 2 and we run the function
